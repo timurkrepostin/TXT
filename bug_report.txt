@@ -1,1 +1,10 @@
-
+summary: отсутствует валидация полей имя и тема в форме контакты
+project: вкусно-умело.ру
+component: обратная связь
+version: 3.3.2
+severity: major
+priority: medium
+status: open
+autour: Timur Krepostin
+assigned To: Ivan Ivanov
+discription: Ввести невалидные данные в форму у поля имя и тема в форме контакты, обратить внимание на валидацию полей формы
