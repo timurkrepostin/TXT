@@ -1,0 +1,5 @@
+name: Timur
+surname: Krepostin
+age: 23
+number of pets: 2
+future salary: 100500
