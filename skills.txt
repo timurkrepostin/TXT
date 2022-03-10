@@ -1,0 +1,6 @@
+theory: base theory of QA;
+web theory: client-server architecture, structure of http request-response, codes of http-resonse, structure of xml and json;
+web-testing practice: testing api in postman win js-autotest, Removing and reading logs from an external server, web-browser devtools, Sniffing http web traffic with Charles and Fiddler, load testing in JMETER;
+mobile testing: features of ios/android, assembly android and ios application, abd, proxy and vpn, sniffing mobile web-traffic;
+git: terminal linux, gitbash, github;
+database: SQL basic, database postgres, database redis

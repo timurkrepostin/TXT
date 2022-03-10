@@ -1,0 +1,5 @@
+fav. movie: casino 1995;
+fav. serial: sopranos;
+fav. food": national kitchen of SNG;
+fav. type of year: springtime;
+fav. other country: Italy	
